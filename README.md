@@ -2,6 +2,9 @@
 ## Documentation -https://docs.ethers.org/v5/
 ### To run in terminal (ex- node events.js) ~
            node filename.js
+### To get the abi~</br>
+  1) go to remix ide --> open a .sol file -->compile it --> go to artifacts in file --> open transfer.json -->ctrl+a
+  2) compile a .sol file using hardhat
 <hr/>
 
 # Why Ether.js ~
